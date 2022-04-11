@@ -4,6 +4,6 @@
 - 📫 How to reach me abayraktar92@gmail.com
 
 <!---
-AyferBayraktarAcar/AyferBayraktarAcar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+abayraktaracar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
